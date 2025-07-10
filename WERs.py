@@ -1,4 +1,11 @@
-#adapted from https://thepythoncode.com/article/calculate-word-error-rate-in-python
+
+"""
+Code to compute different NLP metrics, as in Just et al., 2025:
+DOI to follow.
+Please cite the paper above if you use this code for your own work.
+Authors: Sandra Just 10/07/2025
+Adapted from https://thepythoncode.com/article/calculate-word-error-rate-in-python
+"""
 
 import numpy as np
 
